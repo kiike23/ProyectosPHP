@@ -1,9 +1,9 @@
 body {
-    background: darkgrey;	
+    background: darkblue;	
 }
 
 #formularioSubida .inputImagenModificado input {
-    background: url('../imagenes/campo_texto_2.gif') no-repeat;
+    background: url('../imagenes/campo_texto.gif') no-repeat;
     border: none;
     width: 400px;
     height: 20px;
@@ -38,7 +38,7 @@ body {
 .galeria{
     width: 1080px;
     margin: auto;
-    background: black;
+    background: red;
     color: bisque;
     padding: 20px 10px 10px 20px;
     border-radius: 10px;
